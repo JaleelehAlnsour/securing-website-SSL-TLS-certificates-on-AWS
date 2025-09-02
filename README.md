@@ -5,11 +5,10 @@ The objective is to enable **HTTPS** for secure communication, ensuring data enc
 ---
 
 ## Architecture
-
 ![Architecture Diagram](Architecture.png)  
  
 ---
- 
+
 ## Tools & Services
 - **AWS Certificate Manager (ACM)** – Provision and manage SSL/TLS certificates  
 - **Amazon Route 53** – Domain registration and DNS management  
@@ -45,10 +44,8 @@ The objective is to enable **HTTPS** for secure communication, ensuring data enc
 - **Encrypted communication** between users and AWS infrastructure  
 - Improved **trust and SEO ranking** due to SSL/TLS adoption  
 - Automated certificate management reduces operational overhead  
-- Scalable, production-ready architecture  
-
----
-
+- Scalable, production-ready architecture
+  
 ## Documentation
 For the technical step-by-step setup guide, see [SETUP.md](SETUP.md).
 
