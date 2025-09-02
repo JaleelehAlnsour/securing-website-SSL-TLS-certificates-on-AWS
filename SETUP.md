@@ -12,9 +12,9 @@ Before you begin, ensure you have:
 
 >  **Project Dependency**  
 > This project depends on the **2-Tier Website on AWS project**.  
-> Ensure that you have completed the [2-Tier Website on AWS](../2-tier-website-on-AWS/README.md) before proceeding with this setup.  
+> Ensure that you have completed the [2-Tier Website on AWS](https://github.com/JaleelehAlnsour/2-tier-website-on-AWS/README.md.git) before proceeding with this setup.  
 
----
+--
 
 ## Step 1: Request an SSL Certificate via ACM
 1. Open the **AWS Management Console** and go to **AWS Certificate Manager (ACM)**.  
