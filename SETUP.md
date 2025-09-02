@@ -12,7 +12,7 @@ Before you begin, ensure you have:
 
 >  **Project Dependency**  
 > This project depends on the **2-Tier Website on AWS project**.  
-> Ensure that you have completed the [2-Tier Website on AWS Project Setup](../2-tier-website-on-AWS/README.md) before proceeding with this setup.  
+> Ensure that you have completed the [2-Tier Website on AWS](../2-tier-website-on-AWS/README.md) before proceeding with this setup.  
 
 ---
 
