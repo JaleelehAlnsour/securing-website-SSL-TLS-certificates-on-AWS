@@ -14,7 +14,7 @@ Before you begin, ensure you have:
 > This project depends on the **2-Tier Website on AWS project**.  
 > Ensure that you have completed the [2-Tier Website on AWS Project](https://github.com/JaleelehAlnsour/2-tier-website-on-AWS/blob/main/README.md) before proceeding with this setup.  
 
---
+---
 
 ## Step 1: Request an SSL Certificate via ACM
 1. Open the **AWS Management Console** and go to **AWS Certificate Manager (ACM)**.  
@@ -40,9 +40,8 @@ Before you begin, ensure you have:
 3. Under **Listeners**, edit the **HTTPS (443)** listener.  
 4. Select the newly issued **ACM certificate** from the dropdown.  
 5. Save changes.  
-6. Ensure your **target group** (EC2 instances) is healthy.  
-
----
+6. Ensure your **target group** (EC2 instances) is healthy.
+7. 
 
 ## Verification
 1. Open your web browser and navigate to your domain using **https://**.  
