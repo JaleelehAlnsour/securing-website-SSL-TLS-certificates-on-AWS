@@ -6,7 +6,7 @@ The objective is to enable **HTTPS** for secure communication, ensuring data enc
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)  
+![Architecture Diagram](Architecture.png)  
  
 ---
  
