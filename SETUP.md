@@ -41,9 +41,10 @@ Before you begin, ensure you have:
 4. Select the newly issued **ACM certificate** from the dropdown.  
 5. Save changes.  
 6. Ensure your **target group** (EC2 instances) is healthy.
-7. 
+
+---
 
 ## Verification
-1. Open your web browser and navigate to your domain using **https://**.  
+1. Open your web browser and navigate to your domain using **https://** 
 2. Confirm the **padlock icon** appears in the browser (valid SSL).  
 3. the website is now **secured with SSL/TLS**.  
