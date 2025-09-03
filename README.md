@@ -47,7 +47,7 @@ The objective is to enable **HTTPS** for secure communication, ensuring data enc
 - Scalable, production-ready architecture
   
 ## Documentation
-For the technical step-by-step setup guide, see [SETUP.md](SETUP.md).
+For the technical step-by-step setup guide, see [SETUP](SETUP.md).
 
 
 ---
